@@ -36,6 +36,7 @@ This repository is a TypeScript Playwright learning lab with small runnable exam
 
 ```bash
 npm install
+npm run install-playwright
 npm run test
 ```
 
@@ -61,6 +62,6 @@ That keeps the tests deterministic and CI-friendly.
 3. Read `docs/playwright-concepts.md`.
 4. Run `tests/assertions/assertions.spec.ts` and `tests/waits/waits.spec.ts`.
 5. Inspect the `src/pages/lab-page.ts` page object and `tests/pom/pom.spec.ts`.
-6. Look at `src/fixtures/lab.ts` and `tests/fixtures/fixtures.spec.ts`.
+6. Look at `src/fixtures/auth.ts` and `tests/fixtures/fixtures.spec.ts`.
 7. Use `tests/api/api.spec.ts` for request-context API calls.
 8. Finish with `tests/debugging/debugging.spec.ts` and `tests/interview/interview-quiz.spec.ts`.
