@@ -65,3 +65,7 @@ That keeps the tests deterministic and CI-friendly.
 6. Look at `src/fixtures/auth.ts` and `tests/fixtures/fixtures.spec.ts`.
 7. Use `tests/api/api.spec.ts` for request-context API calls.
 8. Finish with `tests/debugging/debugging.spec.ts` and `tests/interview/interview-quiz.spec.ts`.
+
+## Test Note
+
+This README was updated as a harmless change for a git push test.
